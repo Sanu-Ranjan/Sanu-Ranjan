@@ -1,6 +1,6 @@
 # Hey, I’m Ranjan 👋
-one step back but two step forward
-I really like backend development
+# one step back but two step forward
+# I really like backend development
 ## 🚀 Tech Stack in progress
 - **Backend:** Node.js, Express
 - **Database:** MySQL, Sequelize
