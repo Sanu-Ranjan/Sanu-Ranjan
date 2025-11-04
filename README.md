@@ -3,5 +3,5 @@
 ## 🚀 Tech Stack in progress
 - **Backend:** Node.js, Express
 - **Database:** MySQL, Sequelize
-- **Learning Goal:** Scalable, clean and production ready code
+- **Learning Goal:** JAVA backend tech stack, to Scalable clean and production ready code.
 -  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanu-Ranjan&show_icons=true&theme=dark)
